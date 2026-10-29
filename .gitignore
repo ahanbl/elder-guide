@@ -1,0 +1,9 @@
+﻿# secrets & local state
+dify.json
+app-token.txt
+logs/
+__pycache__/
+*.pyc
+.venv/
+out.log
+err.log
